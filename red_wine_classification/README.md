@@ -1,6 +1,6 @@
 # 🍷 Red Wine Quality Classification (Machine Learning Project)
 
-![Project!_overview]()
+![Project!_overview](../Images/red_wine.png)
 
 ## 📌 Overview
 
