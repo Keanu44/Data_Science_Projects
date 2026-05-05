@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction (End-to-End Machine Learning Project)
 
-![Project!_overview](..\Images\heart_disease.png)
+![Project!_overview](../Images/heart_disease.png)
 
 ## 📌 Overview
 
